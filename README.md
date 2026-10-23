@@ -1,2 +1,2 @@
 # StarmournScripts
-A repo to hold my scripts for the Starmourn MUD created by Iron Realms Entertainment.
+A repo to hold scripts for the Starmourn MUD created by Iron Realms Entertainment. Disclaimer: The original scripts were downloaded from Discord archives and web searches. It is possible that these will not work or could cause problems if enabled. Caution is advised.
