@@ -1,2 +1,5 @@
-# Custom normal prompt
+# Custom normal prompt config
 config prompt normal Health: ^G@health^x/^G@maxhealth ^xPT: @resource1 ^x[@balance@wwbalance@combat] ^x[^cMuscular^x: @muscular / ^yInternal^x: @internal / ^MSensory^x: @sensory / ^wMind^x: @mind / ^gWW^x: @wetwiring]
+
+# Custom normal prompt example
+Health: 1195/1195 PT: 47 [BW-] [Muscular: 100.00 / Internal: 100.00 / Sensory: 100.00 / Mind: 100.00 / WW: 100.00]
