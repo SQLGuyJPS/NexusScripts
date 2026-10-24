@@ -13,7 +13,7 @@
 [Wetwiring]: Structure Collapse (L1) detected.
 [Wetwiring]: Sepsis (L1) detected.
 
-# Affliction cure examples
+# Affliction cured examples
 
 [Wetwiring]: Structure Collapse (L1) cured.
 [Wetwiring]: Sepsis (L1) cured.
