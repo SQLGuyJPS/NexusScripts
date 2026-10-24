@@ -1,0 +1,4 @@
+All curing in Starmourn is done through your wetwiring system (See HELP WETWIRING!).
+ 
+The wetwiring system handles both the curing of your health and the curing of your subsystems. As your subsystems become damaged in combat (through actions that target specific subsystems or through subsystem damage feedback), you will start getting afflictions whenever a certain subsystem falls beneath a certain threshold.
+To see what afflictions do, use the AFFLICTIONS command.

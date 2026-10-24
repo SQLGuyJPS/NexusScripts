@@ -1,0 +1,10 @@
+While in combat, particularly prolonged fighting, you will begin to see that that attacks and afflictions cause damage to your subsystems, of which there are five:
+   Muscular
+   Internal
+   Sensory
+   Mind
+   Wetwiring
+As each of these systems is damaged, you will be hit with new afflictions at certain damage thresholds. These new afflictions are generally more severe, and are not automatically taken care of by wetwiring. They are only cured when your system is healed back over the threshold where it was given.
+For example, if your internal system is reduced to 75% health, you'll be afflicted with internal bleeding, which will cause additional damage to your health every few seconds. The only way to rid yourself of this affliction is to mend that system back above 75%, which is done with a manual command: WETWIRING/WW MEND <system>. This command will cure some subsystem damage and, assuming it pushes you back over 75%, clear the internal bleeding effect.
+There are several factors to keep in mind when making decisions about when to mend a subsystem: balance, resistance, and feedback. First, mending subsystems will use balance, so you can only do it every so often, and it puts you at a disadvantage if used in the heat of combat. Second, each time you perform a mending operation on one of your systems, it will gain resistance, lowering the amount of healing that subsequent mending operations will do. This resistance malus will dissipate over time, assuming that you've given that system a break from mending attempts.
+Lastly, feedback: each system has a multi-tiered affliction that will cause damage to other systems over time. Using the internal system as an example again, if you gain the sepsis affliction, it will periodically feed damage back into your muscular and sensory systems! As these other systems get damaged, they, in turn, start feeding back damage into other systems. If left unchecked, you'll be dead in no time! You'll need to stay on your toes and mend your subsystems strategically, all while fighting for your life.

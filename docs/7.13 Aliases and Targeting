@@ -1,0 +1,18 @@
+Starmourn has a basic internal system with which you can set aliases and targets that will be available to your character regardless of any client you use.
+Aliases
+-------
+An alias is shorthand that you can specify to use in place of a lengthier command, making things quicker for typing. For example, instead of typing SHIP DISEMBARK you could make an alias DIS to type faster.
+   SETALIAS            Create a new alias, or change an existing one.
+   CLEARALIAS          Delete an alias.
+   ALIASLIST           Display all your aliases.
+   
+Targeting
+---------
+Our targeting system allows you to define a simple variable which you can combine with an alias. To do this, use SETTARGET or ST. To combine it with an alias, you use the word TARGET.
+   SETTARGET -or- ST    Specify a target
+Putting it all together, this example will set up a way for you to go around punching mice.
+   Create an alias:    SETALIAS PT punch target
+   Define the target:  SETTARGET mouse
+   Use the alias:      PT
+   Change the target:  SETTARGET bug
+   Clear the target:   SETTARGET none

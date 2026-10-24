@@ -1,0 +1,2 @@
+# Custom normal prompt
+config prompt normal Health: ^G@health^x/^G@maxhealth ^xPT: @resource1 ^x[@balance@wwbalance@combat] ^x[^cMuscular^x: @muscular / ^yInternal^x: @internal / ^MSensory^x: @sensory / ^wMind^x: @mind / ^gWW^x: @wetwiring]

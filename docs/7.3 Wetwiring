@@ -1,0 +1,4 @@
+Wetwiring is a form of cybernetic nanotechnology and is the standard for healing in the Starmourn Sector. Your wetwiring functions automatically, seeking out damage or afflictions in your body and curing them approximately every five seconds.
+Very little needs to be done to manage wetwiring, though you have the option of configuring it to prioritize your health, afflictions, or subsystem damage. This is done with the command:
+   WETWIRING PRIORITIES <1 2 3>
+With this, the three types of healing (AFFLICTIONS, HEALTH, and SYSTEMS) can be listed in whatever order you prefer.

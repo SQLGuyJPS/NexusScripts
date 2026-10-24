@@ -1,0 +1,31 @@
+
+Channeled attacks, colloquially known as "wind-ups", are sometimes used by creatures and denizens throughout the sector in an attempt to win a fight. They are slow and, if allowed to complete, can be lethal.
+ 
+Fortunately for you, there are ways to interrupt these wind-ups. The options are different for each class - it's recommended you learn these moves as soon as possible, since windup attacks start showing up in the game as early as level 12.
+The neural_blinder artifact auto-interrupts windups every twenty seconds.
+CLASS INTERRUPT ABILITIES
+------------------------------
+BEAST
+   -MWP NETLAUNCH. To use, do MWP NETLAUNCH <target>.
+   -PLASMACASTING SEAR. To use, do PLASMA SEAR <target>.
+   -PLASMACASTING FLASH. To use do PLASMA FLASH <target>.
+   -SUIT RUMBLE. To use, do SUIT RUMBLE. (This is an AOE interrupt and will aggro other mobs in the room)
+ 
+ENGINEER
+   -BOTS SWING. To use, do BOT SWING <target>.
+ 
+FURY
+   -FULMINATION FEVER. To use, do KITH FEVER <target>.
+   -RAGE STUN. To use, RAGE STUN <target>.
+ 
+NANOSEER
+   -NANOTECH EYESTRIKE. To use, do NANO EYESTRIKE <target>.
+   -OBLIVION QUAKE. To use, do OBLIVION QUAKE. (This is an AOE interrupt and will aggro other mobs in the room)
+ 
+SCOUNDREL
+   -GUNSLINGING POINTBLANK. To use, do GUN POINTBLANK <target>.
+   -GUILE POCKETSAND. To use, do GUILE POCKETSAND <target>.
+   -GUILE BIND. To use, do GUILE BIND <target>. (Note: target must be prone)
+                                                                
+ANY
+    -Hitting a leg with a limb specific attack while your target has the affliction "weak knees".

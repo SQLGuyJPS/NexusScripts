@@ -1,0 +1,14 @@
+# System repair update examples
+
+[Wetwiring]: Muscular system damage repaired. Subsystem health: 87.60%.
+[Wetwiring]: Muscular system damage repaired. Subsystem health: 93.10%.
+[Wetwiring]: Internal system damage repaired. Subsystem health: 96.90%.
+[Wetwiring]: Muscular system damage repaired. Subsystem health: 98.60%.
+[Wetwiring]: Internal system damage repaired. Subsystem health: 100.00%.
+[Wetwiring]: Mind system damage repaired. Subsystem health: 100.00%.
+[Wetwiring]: Muscular system damage repaired. Subsystem health: 100.00%.
+
+# Affliction cure examples
+
+[Wetwiring]: Structure Collapse (L1) cured.
+[Wetwiring]: Sepsis (L1) cured.

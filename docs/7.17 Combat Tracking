@@ -1,0 +1,5 @@
+To help assist the staff in improving the PvE experience of the game, the game may during certain periods collect data on your combat sessions such as your total experience gained, kills, marks, etc. This data is accessible to you through the COMBATTRACKING command.
+- COMBATTRACKING LIST displays all the recorded sessions. The staff team will occasionally clear out data in between content releases, so store the data locally if you would like to hold on to it.
+- COMBATTRACKING INFO <#> will show you more details about the session.
+In order to register as a session, some basic thresholds have to be met. The tracking begins when combat is initiated and ends when your combat timer expires. The session must be at least 2 minutes in length, you must have used at least 30 seconds of balance, and you must have killed at least 5 mobs.
+You might notice a slight discrepancy between the XP and Marks reported in Combat Tracking versus what you see client-side. This is because these statistics are tracked before modifiers such as experience bonuses and the junk soft-cap are applied.

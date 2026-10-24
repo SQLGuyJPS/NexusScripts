@@ -1,0 +1,11 @@
+Afflictions are short-term ailments that have various effects. Almost all afflictions are cured automatically by your wetwiring (HELP WETWIRING), so you do not need to worry about memorizing a bunch of different cures for them.
+AFFLICTION LIST [filter]           List all existing afflictions.
+AFFLICTION SHOW <name>             Show information about an affliction.
+While the immediate effects of afflictions are quickly cured, each affliction will do lasting damage to one of your internal systems (HELP SUBSYSTEMS). Over time, this damage will cause these subsystems to go haywire and give you more
+maladies, and feed damage back into other systems.
+You can ascertain a list of afflictions, and the overall status of your internal systems with the DIAGNOSE command. Alongside the name of the affliction, you will be shown a brief summary of what the affliction does.
+Afflictions that stem from your subsystems being damaged are only cured when that system is mended above the threshold that gave the affliction.
+As mentioned above, almost all afflictions are cured by your wetwiring, but there are a very small minority that require manual intervention, in the form of a command. Here is a list of those afflictions and what you will need to do to cure them:
+Affliction             Cure
+----------             ----
+Sleeping               WAKE

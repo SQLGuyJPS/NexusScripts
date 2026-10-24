@@ -1,0 +1,4 @@
+Health is an attribute of your character that, funnily enough, indicates you healthy you are; more specifically, how much damage you can take.
+When you attack something, you cause some damage. When it attacks you in return, you will take damage and lose some health. When you run out of health, you die.
+Wetwiring will usually take care of restoring health, though there are some additional class abilities and mods that will hasten the process.
+The maximum amount of health you have ranges from approximately 20-1000, depending on your level, your equipment, and your lifeforce.
