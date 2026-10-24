@@ -8,6 +8,11 @@
 [Wetwiring]: Mind system damage repaired. Subsystem health: 100.00%.
 [Wetwiring]: Muscular system damage repaired. Subsystem health: 100.00%.
 
+# Affliction detected examples
+
+[Wetwiring]: Structure Collapse (L1) detected.
+[Wetwiring]: Sepsis (L1) detected.
+
 # Affliction cure examples
 
 [Wetwiring]: Structure Collapse (L1) cured.
